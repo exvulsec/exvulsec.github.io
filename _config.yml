@@ -1,3 +1,7 @@
 theme: jekyll-theme-minimal
-title: yETH Exploit Analysis
-description: Deep dive into the yETH Weighted StableSwap exploit.
+title: exvul security
+description: ExvulSec  attack analysis archive
+
+markdown: kramdown
+kramdown:
+	math_engine: mathjax
